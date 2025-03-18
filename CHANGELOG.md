@@ -9,3 +9,5 @@ Added a post importer conflict checker
 Added dependencies
 ## [1.0.2] - 2025-03-18
 Update package files
+## [1.0.3] - 2025-03-18
+Update package files again!
