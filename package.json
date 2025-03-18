@@ -7,10 +7,10 @@
   "dependencies": {
     "com.unity.xr.openxr": "1.14.0",
     "com.unity.xr.meta-openxr": "2.0.1",
-    "com.github-glitchenzo.nugetforunity": "4.1.1",
-    "com.unity.probuilder": "6.0.4",
-    "net.tnrd.nsubstitute": "5.1.0",
-    "com.browar.editor-toolbox": "0.12.12"
+    "com.unity.probuilder": "6.0.4",   
+    "com.arimger.editor-toolbox": "https://github.com/arimger/Unity-Editor-Toolbox.git#upm",
+    "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity#v4.1.1",
+    "com.thundernerd.nsubstitute": "https://github.com/Thundernerd/Unity3D-NSubstitute.git"
   },
   "repository": {
     "type": "git",
