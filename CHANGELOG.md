@@ -17,3 +17,5 @@ Removed Git dependencies
 Removed More dependencies
 ## [1.0.6] - 2025-03-18
 Removed All dependencies
+## [1.0.7] - 2025-03-18
+Added Scoped Registry
