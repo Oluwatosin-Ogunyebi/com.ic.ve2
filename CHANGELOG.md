@@ -19,3 +19,5 @@ Removed More dependencies
 Removed All dependencies
 ## [1.0.7] - 2025-03-18
 Added Scoped Registry
+## [1.0.8] - 2025-03-18
+Updated Scoped Registry

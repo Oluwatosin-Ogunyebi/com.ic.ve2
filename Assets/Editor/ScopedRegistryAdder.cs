@@ -1,15 +1,17 @@
 using UnityEngine;
 using UnityEditor;
+using UnityEditor.Callbacks;
+using UnityEditor.PackageManager;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
 
-[InitializeOnLoad]
 public static class ScopedRegistryAdder
 {
-    static ScopedRegistryAdder()
+    [DidReloadScripts]
+    private static void OnScriptsReloaded()
     {
-        // Delay the registry update until the Editor is ready.
+        // Run the registry update after scripts have reloaded (typically after package import)
         EditorApplication.delayCall += AddScopedRegistries;
     }
 
@@ -78,6 +80,10 @@ public static class ScopedRegistryAdder
             File.WriteAllText(manifestPath, updatedJson, Encoding.UTF8);
             AssetDatabase.Refresh();
             Debug.Log("Added OpenUPM scoped registry to manifest.json.");
+
+            // Trigger dependency resolution so missing packages are installed.
+            Client.Resolve();
+            Debug.Log("Triggered Package Manager dependency resolution.");
         }
         else
         {
