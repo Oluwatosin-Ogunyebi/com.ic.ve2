@@ -5,11 +5,11 @@
   "description": "All you need to create a VE2 world and export to the VE2 platform",
   "unity": "2019.4",
   "dependencies": {
-    "com.unity.xr.openxr": "^1.14.0",
-    "com.unity.xr.meta-openxr": "^2.0.1",
-    "com.github-glitchenzo.nugetforunity": "^4.1.1",
-    "com.unity.probuilder": "^6.0.4",
-    "net.tnrd.nsubstitute": "^5.1.0",
+    "com.unity.xr.openxr": "1.14.0",
+    "com.unity.xr.meta-openxr": "2.0.1",
+    "com.github-glitchenzo.nugetforunity": "4.1.1",
+    "com.unity.probuilder": "6.0.4",
+    "net.tnrd.nsubstitute": "5.1.0",
     "com.browar.editor-toolbox": "0.12.12"
   },
   "repository": {
