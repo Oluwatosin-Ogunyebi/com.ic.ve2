@@ -1,13 +1,11 @@
 {
   "name": "com.ic.ve2",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "displayName": "VE2",
   "description": "All you need to create a VE2 world and export to the VE2 platform",
   "unity": "2019.4",
   "dependencies": {
-    "com.unity.xr.openxr": "1.14.0",
-    "com.unity.xr.meta-openxr": "2.0.1",
-    "com.unity.probuilder": "6.0.4"
+    "com.unity.xr.meta-openxr": "2.0.1"
   },
   "repository": {
     "type": "git",
