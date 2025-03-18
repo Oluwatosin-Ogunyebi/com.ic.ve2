@@ -1,0 +1,25 @@
+{
+  "name": "com.ic.ve2",
+  "version": "1.0.0",
+  "displayName": "VE2",
+  "description": "All you need to create a VE2 world and export to the VE2 platform",
+  "unity": "2019.4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oluwatosin-Ogunyebi/com.ic.ve2.git"
+  },
+  "documentationUrl": "https://github.com/Oluwatosin-Ogunyebi/com.ic.ve2/blob/main/README.md",
+  "changelogUrl": "https://github.com/Oluwatosin-Ogunyebi/com.ic.ve2/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Oluwatosin-Ogunyebi/com.ic.ve2/blob/main/LICENSE.md",
+  "type": "tool",
+  "keywords": [
+    "VE2",
+    "VR",
+    "Education"
+  ],
+  "author": {
+    "name": "IC",
+    "email": "f.tovey-ansell@imperial.ac.uk",
+    "url": "https://www.imperial.ac.uk/virse/"
+  }
+}
