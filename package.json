@@ -1,6 +1,6 @@
 {
   "name": "com.ic.ve2",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "displayName": "VE2",
   "description": "All you need to create a VE2 world and export to the VE2 platform",
   "unity": "2019.4",

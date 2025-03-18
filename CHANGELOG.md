@@ -23,3 +23,5 @@ Added Scoped Registry
 Updated Scoped Registry
 ## [1.0.9] - 2025-03-18
 Added XR Dependency
+## [1.0.10] - 2025-03-18
+Added More META files
