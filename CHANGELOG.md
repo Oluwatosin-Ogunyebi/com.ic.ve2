@@ -33,3 +33,5 @@ Updated Samples
 Updated Samples with meta file
 ## [1.0.15] - 2025-03-18
 Updated Samples~ with meta file
+## [1.0.16] - 2025-03-18
+Removed Samples~ meta file

@@ -27,5 +27,13 @@
     "name": "IC",
     "email": "f.tovey-ansell@imperial.ac.uk",
     "url": "https://www.imperial.ac.uk/virse/"
-  }
+  },
+
+  "samples": [
+        {
+            "displayName": "Sample Dev Scene",
+            "description": "Contains a sample dev scene",
+            "path": "Samples~/Dev"
+        }
+    ]
 }
