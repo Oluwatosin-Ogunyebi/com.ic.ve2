@@ -27,3 +27,5 @@ Added XR Dependency
 Added More META files
 ## [1.0.12] - 2025-03-18
 Added Samples
+## [1.0.13] - 2025-03-18
+Updated Samples
