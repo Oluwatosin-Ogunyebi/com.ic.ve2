@@ -11,3 +11,5 @@ Added dependencies
 Update package files
 ## [1.0.3] - 2025-03-18
 Update package files again!
+## [1.0.4] - 2025-03-18
+Removed Git dependencies
