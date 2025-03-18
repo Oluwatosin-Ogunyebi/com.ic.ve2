@@ -21,3 +21,5 @@ Removed All dependencies
 Added Scoped Registry
 ## [1.0.8] - 2025-03-18
 Updated Scoped Registry
+## [1.0.9] - 2025-03-18
+Added XR Dependency
