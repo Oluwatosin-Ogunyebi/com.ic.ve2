@@ -35,3 +35,5 @@ Updated Samples with meta file
 Updated Samples~ with meta file
 ## [1.0.16] - 2025-03-18
 Removed Samples~ meta file
+## [1.0.18] - 2025-03-25
+Removed Scoped Registry and Editor FIles
